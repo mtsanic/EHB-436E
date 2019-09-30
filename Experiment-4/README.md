@@ -1,4 +1,4 @@
-Objectives
+Objectives:
   • To learn how to design adder and multiplier circuits.
   • To learn how to use arithmetic circuits
   
